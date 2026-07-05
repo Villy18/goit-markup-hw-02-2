@@ -10,7 +10,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-a:hover {
+.nav-link:hover,
+.contacts-link:hover {
     color: #404bbf;
 }
 
@@ -36,7 +37,7 @@ button {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.17;
+    line-height: 1.33;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
