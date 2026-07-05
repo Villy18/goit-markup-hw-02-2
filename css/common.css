@@ -1,0 +1,48 @@
+ul,
+ol {
+    list-style-type: none;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+    letter-spacing: 0.02em;
+}
+
+a:hover {
+    color: #404bbf;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404bbf;
+}
+
+button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+    text-decoration: none;
+}
+
+.logo-accent {
+    color: #4d5ae5;
+}

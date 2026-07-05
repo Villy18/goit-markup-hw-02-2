@@ -1,0 +1,31 @@
+.nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
+
+.header-contacts {
+    margin-left: auto;
+    font-style: normal;
+}
+
+.contacts-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+    color: #404bbf;
+}
